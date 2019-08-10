@@ -4,7 +4,6 @@ using System.Text;
 
 namespace Cross2020.ViewModel
 {
-    class MainViewModel
-    {
-    }
+    public partial class MainViewModel
+    {    }
 }
